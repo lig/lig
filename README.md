@@ -1,6 +1,7 @@
 ### 🏗️🚢🏃
 
 - 🌱 I’m learning Rust and I love it.
+- 🔭 If you happen to be an Ansible user check out the [Pyventory](https://github.com/lig/pyventory) project which makes working with Ansible inventory way more easier.
 - 🔭 I've been using my spare time lately to build [Wok](https://github.com/lig/wok) -- a tool to control several git repositories as a single project.
 - ⚡ I made [fish-gitmoji](https://github.com/lig/fish-gitmoji) -- a fish shell plugin that provides input completion for the [Gitmoji](https://gitmoji.carloscuesta.me/).
 - 💬 Follow me on twitter: [lig1](https://twitter.com/lig1).
