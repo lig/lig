@@ -1,5 +1,6 @@
 ### 🏗️🚢🏃
 
+- ⚡ I use the name `main` for the main branch.
 - 🌱 I’m learning Rust and I love it.
 - ⚔️ Recently I've joined the "crusade" for null safety support in Dart/Flutter packages I use in a pet project. 
 - 🔭 I'm developing [Wok](https://github.com/lig/wok) -- a tool to control several git repositories as a single project. Hope to bring to stable release soon.
