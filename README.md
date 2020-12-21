@@ -8,7 +8,9 @@
 - ⚡ I made [fish-gitmoji](https://github.com/lig/fish-gitmoji) -- a fish shell plugin that provides input completion for the [Gitmoji](https://gitmoji.carloscuesta.me/).
 - 🗒️ I blog about things I do in Open Source here: [serge.matveenko.ru](https://serge.matveenko.ru/).
 - 📫 Message me on Keybase: [lig](https://keybase.io/lig).
-- 💬 Follow me on twitter: [lig1](https://twitter.com/lig1).
+- 💬 Follow me
+  * Mastodon: <a rel="me" href="https://fosstodon.org/@lig">`@lig@fosstodon.org`</a>.
+  * Twitter: [lig1](https://twitter.com/lig1).
 
 <!--
 **lig/lig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
