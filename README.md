@@ -1,12 +1,6 @@
 ## 🏗️🚢🏃
 
-- 😄 I use the name `main` for main branch in my repos.
-- 🧘‍♂️ I do a lot of development in Python.
-- 🔭 I'm developing [Wok](https://github.com/lig/wok) -- a tool to control several git repositories as a single project. Hope to bring to stable release soon.
-- ⚡ I made [fish-gitmoji](https://github.com/lig/fish-gitmoji) -- a fish shell plugin that provides input completion for the [Gitmoji](https://gitmoji.carloscuesta.me/).
-- ⚡ I like making apps in Dart/Flutter.
-- ⚡ Go is nice as well.
-- 🌱 I’m learning Rust and I love it.
+- 🌍 About me: [lig.fyi](https://lig.fyi/).
 - 💬 Follow me: [@lig@fosstodon.org](https://fosstodon.org/@lig).
 - 📫 Message me: [@lig:matrix.org](https://matrix.to/#/@lig:matrix.org).
 
