@@ -2,7 +2,7 @@
 
 - 🌍 About me: [lig.fyi](https://lig.fyi/).
 - 💬 Follow me: [@lig@fosstodon.org](https://fosstodon.org/@lig).
-- 📫 Message me: [@lig:matrix.org](https://matrix.to/#/@lig:matrix.org).
+- 📫 Message me: [@lig:dabar.chat](https://matrix.to/#/@lig:dabar.chat).
 
 <!--
 **lig/lig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
